@@ -1,3 +1,4 @@
+--Some basic queries and questions 1-7
 --some basic queries
 SELECT * FROM Draft;
 --selects all fields and records for table Draft

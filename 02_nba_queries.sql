@@ -1,3 +1,5 @@
+--Questions 8-16
+
 --Questions 8 and 9: 
 --Place Denver's pts for and against during 2015-6 season in two columns
 --Compute quartiles for each stat
