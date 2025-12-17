@@ -14,4 +14,4 @@ NBA.com. (2021). NBA Advanced Stats. Retrieved July 11, 2021 from https://www.ka
 #### **Project Creator: Keith Post**
 + [Github Profile](https://github.com/kpost34) 
 + [LinkedIN Profile](https://www.linkedin.com/in/keith-post/)
-+ [Email](mailto:keithhpost@gmail.com)
++ [Email](mailto:keithpost.kp@gmail.com)
